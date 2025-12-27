@@ -88,11 +88,12 @@ Currently focused on strengthening my **ML, data analytics, and backend developm
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=madhukarreddydonala&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=madhukarreddydonala&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=madhukarreddydonala&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhukarreddydonala&theme=transparent&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=madhukarreddydonala&theme=transparent)
 
 ---
 
@@ -102,9 +103,7 @@ Currently focused on strengthening my **ML, data analytics, and backend developm
 
 ---
 
-## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=madhukarreddydonala&theme=transparent&margin-w=8)
 
 ---
 
