@@ -1,24 +1,50 @@
 # 💫 About Me
 
-👋 Hi, I'm **Madhukar Reddy Donala** ✅  
+👋 Hi, I'm **Madhukar Reddy Donala**  
 🔎 **Data Science & Machine Learning Enthusiast | AI Explorer**
 
 I’m passionate about building **data-driven and intelligent applications** that transform raw data into **actionable business insights**.  
-My interests span **machine learning, analytics, and backend development**, driven by curiosity and a desire to create **real-world impact through technology**.
+Currently focused on strengthening my **ML, data analytics, and backend development skills** to prepare for **internship and full-time roles**.
 
 ---
 
-## 🌐 Connect With Me
+![Profile Views](https://visitcount.itsvg.in/api?id=madhukarreddydonala&icon=0&color=0)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhukar-reddy-donala-488b35247/)
-[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/madhukar4u)
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madhukarreddydonala)
+---
+
+## 🎯 Current Focus
+
+- 📊 Data Analysis & Visualization using Python  
+- 🤖 Machine Learning model building & evaluation  
+- 🌐 Backend development with Flask & FastAPI  
+- ☁️ Cloud fundamentals (AWS & Azure)  
+- 💼 Preparing for **Data Science / ML internships & jobs**
+
+---
+
+## 🌱 Interests
+
+- Data Science & Analytics  
+- Machine Learning & AI  
+- Business problem-solving using data  
+- Building real-world ML applications  
+- Continuous learning & skill improvement  
+
+---
+
+## ⚡ Quick Stats
+
+- 🎓 B.Tech CSE (AI & ML Specialization)  
+- 🐍 Primary Language: **Python**  
+- 📊 Strong foundation in ML & data analysis  
+- 🌐 Experience deploying ML apps  
+- 🚀 Actively seeking **internships & entry-level roles**
 
 ---
 
 ## 💻 Tech Stack
 
-### 👨‍💻 Programming & Core
+### 👨‍💻 Programming
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
@@ -31,16 +57,12 @@ My interests span **machine learning, analytics, and backend development**, driv
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-### 🌐 Backend & Frameworks
+### 🌐 Backend & Databases
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### ☁️ Cloud & Tools
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -51,34 +73,34 @@ My interests span **machine learning, analytics, and backend development**, driv
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=madhukarreddydonala&theme=transparent&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=madhukarreddydonala&theme=transparent)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=madhukarreddydonala&layout=compact&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhukarreddydonala&theme=transparent&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=madhukarreddydonala&theme=transparent)
+
+---
+
+## 🧠 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madhukarreddydonala&layout=compact&theme=transparent)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=madhukarreddydonala&theme=transparent&margin-w=8)
+![Trophies](https://github-profile-trophy.vercel.app/?username=madhukarreddydonala&theme=transparent&margin-w=8)
 
 ---
 
-### ✍️ Dev Quote
+## 🌐 Connect With Me
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhukar-reddy-donala-488b35247/)
+[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/madhukar4u)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madhukarreddydonala)
 
----
-
-### 🔝 Top Contributions
-
-![](https://github-contributor-stats.vercel.app/api?username=madhukarreddydonala&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
+📧 **Reach me at:** madhukarreddy1744268@gmail.com  
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=madhukarreddydonala&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
-⭐ *Always learning, always building, always improving.*
+⭐ *Always learning. Always building. Always improving.*
