@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text= DONALA%20MADHUKAR%20REDDY&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=gradient" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=DONALA%20MADHUKAR%20REDDY&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=gradient" width="80%"/>
 </div>
 
 <!-- Typing Animation -->
