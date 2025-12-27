@@ -1,3 +1,18 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=DONALA%20MADHUKAR%20REDDY&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=gradient" width="100%"/>
+</div>
+
+<!-- Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=700&lines=Machine+Learning+Enthusiast;Data+Science+Explorer;Python+Developer;AI+%26+Analytics+Learner;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=madhukarreddydonala&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+
+
+
+
 # 💫 About Me
 
 👋 Hi, I'm **Madhukar Reddy Donala**  
@@ -8,7 +23,7 @@ Currently focused on strengthening my **ML, data analytics, and backend developm
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=madhukarreddydonala&icon=0&color=0)
+
 
 ---
 
