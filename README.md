@@ -31,8 +31,7 @@ Currently focused on strengthening my **ML, data analytics, and backend developm
 
 - 📊 Data Analysis & Visualization using Python  
 - 🤖 Machine Learning model building & evaluation  
-- 🌐 Backend development with Flask & FastAPI  
-- ☁️ Cloud fundamentals (AWS & Azure)  
+- 🌐 Backend development with Flask & FastAPI   
 - 💼 Preparing for **Data Science / ML internships & jobs**
 
 ---
@@ -47,13 +46,7 @@ Currently focused on strengthening my **ML, data analytics, and backend developm
 
 ---
 
-## ⚡ Quick Stats
 
-- 🎓 B.Tech CSE (AI & ML Specialization)  
-- 🐍 Primary Language: **Python**  
-- 📊 Strong foundation in ML & data analysis  
-- 🌐 Experience deploying ML apps  
-- 🚀 Actively seeking **internships & entry-level roles**
 
 ---
 
@@ -101,11 +94,7 @@ Currently focused on strengthening my **ML, data analytics, and backend developm
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madhukarreddydonala&layout=compact&theme=transparent)
 
----
 
-
-
----
 
 ## 🌐 Connect With Me
 
