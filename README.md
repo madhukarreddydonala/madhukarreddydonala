@@ -24,9 +24,6 @@ Currently focused on strengthening my **ML, data analytics, and backend developm
 ---
 
 
-
----
-
 ## 🎯 Current Focus
 
 - 📊 Data Analysis & Visualization using Python  
@@ -70,11 +67,11 @@ Currently focused on strengthening my **ML, data analytics, and backend developm
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<!--![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)-->
 
 ### ☁️ Cloud & Tools
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+<!--![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)'''-->
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -91,8 +88,10 @@ Currently focused on strengthening my **ML, data analytics, and backend developm
 ---
 
 ## 🧠 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhukarreddydonala&layout=compact&theme=transparent" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madhukarreddydonala&layout=compact&theme=transparent)
 
 
 
