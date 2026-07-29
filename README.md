@@ -22,29 +22,6 @@ I’m passionate about building **data-driven and intelligent applications** tha
 Currently focused on strengthening my **ML, data analytics, and backend development skills** to prepare for **internship and full-time roles**.
 
 ---
-
-
-## 🎯 Current Focus
-
-- 📊 Data Analysis & Visualization using Python  
-- 🤖 Machine Learning model building & evaluation  
-- 🌐 Backend development with Flask & FastAPI   
-- 💼 Preparing for **Data Science / ML internships & jobs**
-
----
-
-## 🌱 Interests
-
-- Data Science & Analytics  
-- Machine Learning & AI  
-- Business problem-solving using data  
-- Building real-world ML applications  
-- Continuous learning & skill improvement  
-
----
-
-
-
 ---
 
 ## 💻 Tech Stack
@@ -77,6 +54,30 @@ Currently focused on strengthening my **ML, data analytics, and backend developm
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
+
+
+
+## 🎯 Current Focus
+
+- 📊 Data Analysis & Visualization using Python  
+- 🤖 Machine Learning model building & evaluation  
+- 🌐 Backend development with Flask & FastAPI   
+- 💼 Preparing for **Data Science / ML internships & jobs**
+
+---
+
+## 🌱 Interests
+
+- Data Science & Analytics  
+- Machine Learning & AI  
+- Business problem-solving using data  
+- Building real-world ML applications  
+- Continuous learning & skill improvement  
+
+---
+
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=madhukarreddydonala&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
