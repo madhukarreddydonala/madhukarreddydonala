@@ -63,7 +63,7 @@ madhukar@github:~$ cat current_quest.log
 
 <!-- ══════════════ FEATURED PROJECTS ══════════════ -->
 
-<details open>
+<!-- <details open>
   <summary><h2>🌟 Featured Projects</h2></summary>
 
   <br/>
@@ -108,7 +108,7 @@ madhukar@github:~$ cat current_quest.log
   | **[Your Project]** | [Problem description] | [Tech stack] | [Metric/Impact] |
   | **[Your Project]** | [Problem description] | [Tech stack] | [Metric/Impact] |
 
-</details>
+</details> -->
 
 ---
 
@@ -204,7 +204,7 @@ madhukar@github:~$ cat current_quest.log
 ---
 
 <!-- ══════════════ WHY WORK WITH ME ══════════════ -->
-
+<!--
 <details open>
   <summary><h2>✨ Why Work With Me?</h2></summary>
 
