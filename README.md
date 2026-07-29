@@ -8,11 +8,11 @@
 </div>
 
 <!-- Typing SVG -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/madhukarreddydonala">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&repeat=true&width=620&height=80&lines=ML+Engineer+%7C+Data+Science;Python+%7C+TensorFlow+%7C+FastAPI;Building+ML+Solutions+That+Impact;Internship+Ready+%7C+Always+Learning" alt="Typing SVG" />
   </a>
-</p>
+</p> -->
 
 <!-- Profile Badges -->
 <p align="center">
