@@ -31,13 +31,14 @@
 
 <!-- ══════════════ TERMINAL HERO SECTION ══════════════ -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" alt="Coding GIF" />
 </p>
 
 <br/>
 
-```console
+```console -->
+<!--
 madhukar@github:~$ whoami
 ```
 
@@ -186,7 +187,7 @@ madhukar@github:~$ cat current_quest.log
   </p>
 
   <br/>
-
+<!--
   <h3 align="center">🎓 Learning & Growth</h3>
 
   <div align="center">
