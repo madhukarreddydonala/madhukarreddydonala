@@ -152,7 +152,7 @@ madhukar@github:~$ cat current_quest.log
 
   <h4 align="center">☁️ Cloud & DevOps</h4>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=aws,docker,git,linux,vscode&perline=9" />
+    <img src="https://skillicons.dev/icons?i=aws,docker,git,vscode&perline=9" />
   </p>
 
 </details>
