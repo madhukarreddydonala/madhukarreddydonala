@@ -121,7 +121,7 @@ madhukar@github:~$ cat current_quest.log
 
   <h4 align="center">🐍 Programming Languages</h4>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,cpp,c&perline=9" />
+    <img src="https://skillicons.dev/icons?i=python&perline=9" />
   </p>
 
   <h4 align="center">🤖 ML / AI Stack</h4>
@@ -142,17 +142,17 @@ madhukar@github:~$ cat current_quest.log
 
   <h4 align="center">🌐 Backend & APIs</h4>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs&perline=9" />
+    <img src="https://skillicons.dev/icons?i=fastapi,flask,&perline=9" />
   </p>
 
   <h4 align="center">💾 Databases & Storage</h4>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=9" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=9" />
   </p>
 
   <h4 align="center">☁️ Cloud & DevOps</h4>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=aws,docker,git,vscode&perline=9" />
+    <img src="https://skillicons.dev/icons?i=aws,docker,git&perline=9" />
   </p>
 
 </details>
